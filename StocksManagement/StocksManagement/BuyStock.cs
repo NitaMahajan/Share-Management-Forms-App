@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -58,9 +58,6 @@ namespace StocksManagement
             {
                 sqlcon.Open();
 
-
-                //
-
                 string check_query = "select count(*) from [dbo].[inventory] where scriptID='" + textBox1.Text.Trim() + "'";
                 SqlDataAdapter sda = new SqlDataAdapter(check_query, sqlcon);
                 DataTable dt = new DataTable();
@@ -112,18 +109,7 @@ namespace StocksManagement
                 Home home = Home.getInstance(Home.getUser());
                 home.Show();
                 sqlcon.Close();
-                //
-
-
-
-                //first check if the script is present, if yes then update accordingly, else just insert
-
-
-
-
-
-
-
+                
             }
         }
     }
