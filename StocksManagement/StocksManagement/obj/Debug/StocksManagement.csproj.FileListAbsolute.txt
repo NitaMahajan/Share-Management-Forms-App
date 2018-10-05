@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\bin\Debug\StocksManagement.exe.config
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\bin\Debug\StocksManagement.exe
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\bin\Debug\StocksManagement.pdb
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.Home.resources
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.Login.resources
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.Properties.Resources.resources
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.exe
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.pdb
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.AddScript.resources
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.ViewInventory.resources
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.BuyStock.resources
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.SellStock.resources
+C:\Users\DELL\source\repos\StocksManagement\StocksManagement\obj\Debug\StocksManagement.ViewProfit.resources
